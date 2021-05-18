@@ -1,9 +1,16 @@
-# Um pouco sobre mim
+# Um pouco sobre mim|
 
-Me chamo Lucas, tenho 15 anos e moro em Resende-RJ.
+- _Me chamo Lucas dos Santos Dantas, tenho 15 anos e moro na cidade de Resende-RJ_.
 
-Estou cursando Deselvolvimento de Sistemas no SENAI.
+- _Estou cursando o 2° ano do EM na Instituição Firjan SESI SENAI Resende, que está vinculado com o meu curso de Desenvolvimento de Sistemas_.
 
-Futuro Engenheiro
+- _Gosto muito de tecnologia e tenho grande afinidade com celulares e computadores_.
 
-Amo filmes de heróis e ação
+- _Curto assistir filmes e séries de heróis e de ação_.
+
+- _Sou bem comunicativo e gosto de me interagir com todos ao meu redor_.
+
+- _Minha futura área de profissão será a Engenharia porém ainda não decidi qual especialidade irei empregar nessa área_.
+
+
+**Isso é tudo, pessoal !!!**
