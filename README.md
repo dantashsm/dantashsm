@@ -1,4 +1,4 @@
-# Um pouco sobre mim|
+﻿# Um pouco sobre mim|
 
 - _Me chamo Lucas dos Santos Dantas, tenho 15 anos e moro na cidade de Resende-RJ_.
 
@@ -13,4 +13,4 @@
 - _Minha futura área de profissão será a Engenharia porém ainda não decidi qual especialidade irei empregar nessa área_.
 
 
-**Isso é tudo, pessoal !!!**
+------**Isso é tudo, pessoal !!!**--------
