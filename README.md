@@ -2,7 +2,7 @@
 
 - _Me chamo Lucas dos Santos Dantas, tenho 15 anos e moro na cidade de Resende-RJ_.
 
-- _Estou cursando o 2° ano do EM na Instituição Firjan SESI SENAI Resende, que está vinculado com o meu curso de Desenvolvimento de Sistemas_.
+- _Estou cursando o 2° ano do EM na Instituição Firjan SENAI SESI Resende, que está vinculado com o meu curso de Desenvolvimento de Sistemas_.
 
 - _Gosto muito de tecnologia e tenho grande afinidade com celulares e computadores_.
 
