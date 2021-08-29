@@ -6,8 +6,6 @@
 
 - _Gosto muito de tecnologia e tenho grande afinidade com celulares e computadores_.
 
-- _Curto assistir filmes e séries de heróis e de ação_.
-
 - _Sou bem comunicativo e gosto de me interagir com todos ao meu redor_.
 
 - _Minha futura área de profissão será a Engenharia porém ainda não decidi qual especialidade irei empregar nessa área_.
